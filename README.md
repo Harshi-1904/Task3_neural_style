@@ -50,4 +50,4 @@ For example:
 
 Output 
 ---
-
+![Image](https://github.com/user-attachments/assets/fe1bf472-9a66-4fe5-af0c-cc2e655f050c)
